@@ -1,0 +1,263 @@
+body {
+    font-family: sans-serif;
+  }
+  
+  header {
+    background-color: #38B2CE;
+    padding: 40px 0px 40px 25px;
+  }
+  
+  .link-header {
+
+    padding: 5px 10px 5px 10px;
+    font-size: 36px;
+    text-decoration: none;
+    background-image: linear-gradient(180deg, #7E57C2 0%, #FFFFFF 9.9%, #FFFFFF 88.54%, #2AB428 100%);
+    color: #F86A03;
+  }
+  
+  .link-header:hover {
+    background-image: linear-gradient(180deg, #7E57C2 0%, #FFFFFF 9.9%, #FFFFFF 88.54%, #2AB428 100%);
+    color: #F86A03;
+    transition: 1.5s linear;
+  }
+  
+  main {
+    margin: 0 auto;
+  }
+  
+  .description {
+    display: flex;
+    margin: 0 auto;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .container {
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+  }
+  
+.oneh1 {
+    margin-right: 120px;
+    color: #00BD39;
+    font-size: 96px;
+    text-shadow: 0px 20px 10px rgba(29, 115, 115, 0.38);
+    text-align: center;
+
+  }
+  
+  nav {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .container-nav {
+    position: relative;
+  }
+  
+  .link-mysites {
+    color: #FFFFFF;
+    font-size: 24px;
+    text-decoration: none;
+    position: absolute;
+    top: 90px;
+    left: 295px;
+  }
+  
+  .link-mysites:hover {
+    color: #FD3104;
+    transition: 1.5s linear;
+  }
+  
+  .link-info {
+    color: #000000;
+    font-size: 24px;
+    text-decoration: none;
+    position: absolute;
+    left: 290px;
+    top: 140px;
+    width: 40px;
+  }
+  
+  .link-info:hover {
+    color: #b9b9d6;
+    transition: 1.5s linear;
+  }
+  
+  p {
+    font-size: 24px;
+    margin-left: 60px;
+  }
+  
+  ul {
+    font-size: 24px;
+    list-style: none;
+    margin-left: 60px;
+    margin-top: 50px;
+  }
+  
+  li {
+    margin-bottom: 20px;
+  }
+  
+  ol {
+    font-size: 24px;
+    margin-left: 60px;
+  }
+  
+  .text-big {
+    font-size: 48px;
+    margin-left: 60px;
+  }
+    
+  .link-text {
+    color: #0000FF;
+    text-decoration: none;
+    border-bottom: 2px solid #0000FF;
+  }
+  
+  h2 {
+    color: #006363;
+    font-size: 64px;
+    margin-left: 60px;
+  }
+  
+  footer {
+    padding: 65px 0px 80px 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+  }
+  
+  .container-links {
+    width: 120px;
+    margin-left: 90px;
+    margin-right: 90px;
+  }
+  
+  footer img {
+    display: block;
+  }
+  
+  .social {
+    display: inline-block;
+    margin: 30px;
+  }
+
+  .round {
+    border-radius: 10px;
+  }
+  
+  p{
+       margin-bottom: 15px;
+    border: 8px ridge lightskyblue;
+      border-radius: 17px;
+      
+  }
+
+.container-description{
+    margin-left: 80px;
+}
+
+
+
+.container {
+    display: inline-block;
+   
+  }
+
+.container img {
+    width:600px;
+    height: 400px;
+}
+ 
+ul {
+        font-size: 24px;
+        list-style: none;
+        margin-left: 60px;
+        margin-top: 50px;
+        position:absolute;
+        top:450px;
+        right: 50px;
+      }
+      
+li {
+        margin-bottom: 15px;
+           border-top: 5px solid rgb(125, 192, 231);
+          border-bottom: 5px solid #e4d7c5;
+          width: 200px;
+          
+      }
+      
+      
+ol {
+        font-size: 24px;
+        margin-left: 60px;
+      }
+
+.containers{
+    display: inline-table;    
+}
+
+.containers img {
+    width:550px;
+    height: 400px;
+    margin-left: 1px;
+}
+
+.author {
+    text-align: left;
+    margin-left: 2px;
+    color: #00BD39;
+    font-size: 96px;
+}
+
+.threeh2 {
+    display: block;
+    color: #00BD39;
+    font-size: 48px;
+    text-align: center;
+}
+
+.threeh1 {
+    display: block;
+    text-align: center;
+    font-size: 96px;
+    color: #00BD39;
+}
+
+.spider {
+    position: absolute;
+    right:0px;
+    top:450px
+}
+
+.fourh1 {
+    font-size: 96px;
+    color: #00BD39;
+    text-align: center;
+}
+
+.fourh2 {
+    color:#006363;
+    color: #00BD39;
+    text-align: left;
+    font-size: 56px;
+    margin-left: 55px;
+}
+
+
+iframe{
+    margin: 60px;
+}
+
+.four_pic {
+    position:absolute;
+    right:0;
+    top:500px
+}
