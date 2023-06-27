@@ -1,1 +1,1 @@
-# alina_graduate
+Калькулятор на PyGame
